@@ -4,3 +4,6 @@ ETL - Extract Transform Load
 2) Staging Layer
 3) Landing Layer
 4) Reporting Layer
+
+
+python
