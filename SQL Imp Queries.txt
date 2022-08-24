@@ -1,0 +1,9 @@
+SQL imp Queries
+
+1) Find Duplicate Records
+2) Delete Duplicate Records
+3) Display dept wise max salary
+4) Display 25th highest salary
+
+
+Add more queries as per your knowledge...
