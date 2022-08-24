@@ -6,7 +6,9 @@ SQL imp Queries
 4) Display 25th highest salary
 5) Display half records from the table
 6) Display only weekdays (excluding the weekend) records for any date column
-7) I want to delete this line later
+
+8) Join the 5 tables
+9) From email column separate the username and domain in a separate columns
 
 
 Add more queries as per your knowledge...
