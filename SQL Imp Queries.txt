@@ -9,6 +9,6 @@ SQL imp Queries
 
 8) Join the 5 tables
 9) From email column separate the username and domain in a separate columns
-10) This line is being added to test the hard reset
+10) 
 
 Add more queries as per your knowledge...
