@@ -4,6 +4,9 @@ SQL imp Queries
 2) Delete Duplicate Records
 3) Display dept wise max salary
 4) Display 25th highest salary
+5) Display half records from the table
+6) Display only weekdays (excluding the weekend) records for any date column
+7) I want to delete this line later
 
 
 Add more queries as per your knowledge...
