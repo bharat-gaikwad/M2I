@@ -1,0 +1,6 @@
+ETL - Extract Transform Load
+
+1) Source Layer
+2) Staging Layer
+3) Landing Layer
+4) Reporting Layer
