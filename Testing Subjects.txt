@@ -1,0 +1,15 @@
+This file is created by B
+
+Software Testing subjects
+1) Manual Testing
+2) SQL (MS SQL Server, Postgres)
+3) ETL
+4) BI 
+5) Linux
+6) Python
+7) Git
+8) Bigdata
+9) Hadoop
+10) MongoDB
+
+Good luck!!
